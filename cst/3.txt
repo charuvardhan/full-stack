@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+<body>
+<marquee>Various Formula</marquee>
+<p>H<sub>2</sub>O<br>
+H<sub>2</sub>SO<sub>4</sub><br>
+<strike>Text</strike><br>
+x<sup>2</sup><br>
+X<sup>2</sup> + Y<sup>2</sup>=Z<br>
+Y=mx+c</p>
+</body>
+</head>
+</html>

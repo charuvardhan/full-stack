@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+</title>
+<body>
+<form>
+First Name:<input type="text" name="firstname" placeholder="Enter Your First Name"/>
+<br>
+Last Name:<input type="text" name="lastname" placeholder="Enter Your Last Name"/>
+<br>
+<input type="radio" name="gender" value="Male"/>Male<br>
+<input type="radio" name="gender" value="Female"/>Female<br>
+I Have a Bike<input type="checkbox" name="vehicle" value="bike"/><br>
+I Have a Car<input type="checkbox" name="vehicle" value="car"/><br>
+I Have an Aeroplane<input type="checkbox" name="vehicle" value="I have an Aeroplane"/><br>
+Username:<input type="text" name="uname" value="username"/><br>
+<input type="button" name="Submit" value="Submit" onclick="window.location.href='1.html' "/><br>
+</body>
+</head>
+</html>
